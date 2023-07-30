@@ -14,7 +14,7 @@ import base64
 from io import BytesIO
 import streamlit as st
 import textwrap
-from categories_josh1 import default_categories
+from categories1 import default_categories
 
 # Set page title and layout
 st.set_page_config(page_title="👨‍💻 Transcript Categorization")
